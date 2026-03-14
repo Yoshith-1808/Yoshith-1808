@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=900&lines=Hi+I'm+Yoshith;Java+Developer;Spring+Boot+%7C+Django+Developer;Linux+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yoshith%20Nagidi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">Hi 👋, I'm Yoshith</h1>
 <h3 align="center">A Passionate Programmer from India 🇮🇳</h3>
 
