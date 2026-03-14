@@ -9,8 +9,10 @@
 - 📫 Reach me: yoshith.nagidi@gmail.com
 
 ### 🛠️ Languages and Tools
-<img src="https://skillicons.dev/icons?i=java,django,springboot,linux,git,github,vscode" />
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=,java,django, spring-boot,linux,git,github,vscode" />
+</p>
 ---
 
 ### 📊 GitHub Stats
