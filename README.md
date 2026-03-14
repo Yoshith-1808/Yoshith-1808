@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm YOSHITH</h1>
+<h1 align="center">Hi 👋, I'm Yoshith</h1>
 <h3 align="center">A Passionate Programmer from India 🇮🇳</h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning Programming
-- 💻 Interested in Web Development & Coding
+- 🌱 I’m currently learning **Spring Boot & Django**
+- 💻 Interested in **Backend Development**
 - 📫 Reach me: yoshith.nagidi@gmail.com
+
+---
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=,java,django, spring-boot,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,django,linux,html,css,mysql,git,github,vscode" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -24,9 +27,3 @@
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yoshith-1808&theme=tokyonight)
-
----
-
-### 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshith-1808&layout=compact&theme=tokyonight)
