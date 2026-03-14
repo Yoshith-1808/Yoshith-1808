@@ -4,17 +4,12 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Programming**
-- 💻 Interested in **Web Development & Coding**
-- 📫 Reach me: yoshith.nagidi@gmai.com
-
----
+- 🌱 I’m currently learning Programming
+- 💻 Interested in Web Development & Coding
+- 📫 Reach me: yoshith.nagidi@gmail.com
 
 ### 🛠️ Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,p,java,c,,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,django,springboot,linux,git,github,vscode" />
 
 ---
 
