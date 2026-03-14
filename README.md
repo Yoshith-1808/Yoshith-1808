@@ -23,6 +23,15 @@
 
 ---
 
+---
+
+### 🌐 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoshith.nagidi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoshith-nagidi-0877b8252/) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/yoshith18/)
+
+
 ### 📊 GitHub Stats
 
 ![Yoshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoshith-1808&show_icons=true&theme=tokyonight)
